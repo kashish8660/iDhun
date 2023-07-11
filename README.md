@@ -9,6 +9,8 @@ A seekbar dynamically represents the progress of the currently playing song in r
 
 The name of the currently playing song is displayed as scrolling text, ensuring readability and facilitating the identification of the playing track.
 
-![image](https://github.com/kashish8660/iDhun/assets/65414984/fad84c6e-4a04-4a9f-8124-c386804cfcb5) 
-![image](https://github.com/kashish8660/iDhun/assets/65414984/48b9c46e-f465-45da-b675-44840c7c8196)
 ![image](https://github.com/kashish8660/iDhun/assets/65414984/54916f59-33a0-428d-8ddf-fde81e0f49ec)
+![image](https://github.com/kashish8660/iDhun/assets/65414984/48b9c46e-f465-45da-b675-44840c7c8196)
+![image](https://github.com/kashish8660/iDhun/assets/65414984/fad84c6e-4a04-4a9f-8124-c386804cfcb5) 
+
+
